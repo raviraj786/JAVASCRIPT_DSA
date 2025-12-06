@@ -24,3 +24,26 @@ for(let i =1 ; i<=n ; i++){
 
 
 
+let = "madam"
+let i = 0;
+let j= n.length-1;
+let palid = true
+
+while(i<j){
+    if(l.charAt(i) != l.charAt(j)){
+        palid=false;
+        break
+    }
+    i++
+    j--
+}
+
+if(palid){
+    console.log("p")
+}else{
+    console.log("n")
+}
+
+
+
+
