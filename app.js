@@ -22,6 +22,8 @@ for(let i =1 ; i<=n ; i++){
 
 ////////////////////////////////////////
 
+// palidrome
+
 
 
 let = "madam"
@@ -43,6 +45,10 @@ if(palid){
 }else{
     console.log("n")
 }
+
+
+
+
 
 
 
